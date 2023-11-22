@@ -14,7 +14,7 @@ Successfully implemented a real-time analytics dashboard that increased operatio
 
 -🌐 Technical Proficiencies:
 
-Languages: Python, R, SQL, Java
+Languages: Python, R, SQL
 Tools: Jupyter Notebook, Tableau, TensorFlow, Scikit-Learn
 Databases: MySQL, MongoDB
 Big Data: Hadoop, Spark
@@ -31,9 +31,9 @@ Committed to ethical data practices and passionate about using data for social g
 
 🔗 Connect with Me:
 
-LinkedIn: linkedin.com/in/godwinosayamwen/
-GitHub: github.com/godwino
-Email: godwinosayamwen@gmail.com
+-LinkedIn: linkedin.com/in/godwinosayamwen/
+-GitHub: github.com/godwino
+-Email: godwinosayamwen@gmail.com
 
 
 <!---
