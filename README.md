@@ -32,7 +32,9 @@ Committed to ethical data practices and passionate about using data for social g
 🔗 Connect with Me:
 
 -LinkedIn: linkedin.com/in/godwinosayamwen/
+
 -GitHub: github.com/godwino
+
 -Email: godwinosayamwen@gmail.com
 
 
