@@ -4,7 +4,7 @@
 
 - 📊 Professional Background:
 
-Over 5 years of experience in data science, specializing in machine learning, predictive modeling, and data visualization.
+Over 5+ years of experience in data science, specializing in machine learning, predictive modeling, and data visualization.
 Expert in Python, R, SQL, and familiar with big data technologies like Hadoop and Spark.
 Strong background in statistical analysis and a track record of delivering data-driven solutions to complex business challenges.
 
